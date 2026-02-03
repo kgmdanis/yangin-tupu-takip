@@ -70,7 +70,7 @@ export default function AyarlarPage() {
             <div><span className="text-gray-500">Bitiş:</span> {fmtTs(userData?.paketBitis)}</div>
             <div><span className="text-gray-500">Durum:</span> <Badge variant={userData?.hesapDurumu === "aktif" ? "default" : "secondary"}>{userData?.hesapDurumu}</Badge></div>
           </div>
-          <p className="text-sm text-gray-500 mt-4">Paket değişikliği için: <strong>info@kgmdijital.com</strong></p>
+          <p className="text-sm text-gray-500 mt-4">Paket değişikliği için: <strong>kgmdanismanlik@gmail.com</strong></p>
         </CardContent>
       </Card>
     </div>

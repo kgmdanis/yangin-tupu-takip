@@ -18,7 +18,7 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
             <AlertTriangle className="h-5 w-5 flex-shrink-0" />
             <p className="text-sm">
               Hesabınız askıya alınmıştır. Ödeme bilgileri için:{" "}
-              <strong>info@kgmdijital.com</strong> | <strong>0332 XXX XX XX</strong>.
+              <strong>kgmdanismanlik@gmail.com</strong> | <strong>+90 554 379 16 32</strong>.
               Ödemeniz onaylandıktan sonra hesabınız aktif edilecektir.
             </p>
           </div>

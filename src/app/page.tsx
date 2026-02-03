@@ -620,7 +620,7 @@ export default function LandingPage() {
               <div className="absolute top-10 left-10 w-20 h-20 border-4 border-white rounded-full"></div>
               <div className="absolute bottom-10 right-10 w-32 h-32 border-4 border-white rounded-full"></div>
             </div>
-            
+
             <div className="relative z-10">
               <Flame className="w-16 h-16 mx-auto mb-6 text-white/80" />
               <h2 className="text-3xl lg:text-4xl font-bold mb-4">
@@ -652,6 +652,10 @@ export default function LandingPage() {
                 <span className="font-bold text-lg">TüpTakip</span>
                 <span className="block text-xs text-gray-500">KGM Dijital</span>
               </div>
+            </div>
+            <div className="flex items-center gap-6 text-gray-500 text-sm">
+              <span>kgmdanismanlik@gmail.com</span>
+              <span>+90 554 379 16 32</span>
             </div>
             <div className="text-gray-500 text-sm">
               © 2026 KGM Dijital. Tüm hakları saklıdır.

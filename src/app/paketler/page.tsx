@@ -126,7 +126,7 @@ export default function PaketlerPage() {
               Fiyat bilgisi ve özel teklifler için bizimle iletişime geçin.
             </p>
             <p className="text-sm">
-              <strong>Email:</strong> info@kgmdijital.com | <strong>Telefon:</strong> 0332 XXX XX XX
+              <strong>Email:</strong> kgmdanismanlik@gmail.com | <strong>Telefon:</strong> +90 554 379 16 32
             </p>
           </div>
         </div>

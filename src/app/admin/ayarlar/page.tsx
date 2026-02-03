@@ -17,7 +17,7 @@ export default function AdminAyarlarPage() {
     dolumcu_starter: "750", dolumcu_professional: "2500", dolumcu_enterprise: "5000", fabrika_premium: "5000",
     dolumcu_periyot: "ay", fabrika_periyot: "yıl",
   });
-  const [iletisim, setIletisim] = useState({ telefon: "0332 XXX XX XX", email: "info@kgmdijital.com", adres: "Konya, Türkiye" });
+  const [iletisim, setIletisim] = useState({ telefon: "+90 554 379 16 32", email: "kgmdanismanlik@gmail.com", adres: "Konya, Türkiye" });
   const [askidaUyari, setAskidaUyari] = useState("Hesabınız askıya alınmıştır. Ödeme için bizimle iletişime geçin.");
 
   useEffect(() => {
